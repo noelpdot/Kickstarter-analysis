@@ -1,4 +1,4 @@
-# Kickstarting with Excel
+# Kickstarting with Excel 
 
 This project is based on mastering Microsoft Excel and most of its important formulas and functions along with understanding the data and reviewing it to help Louise a playwright secure success.
 
